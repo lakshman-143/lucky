@@ -1,2 +1,2 @@
 # lucky
-test
+test git commands checkeing 
